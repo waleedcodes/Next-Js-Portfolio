@@ -1,9 +1,9 @@
-import { Portfolio } from "./Portfolio";
+import { GoogleGeminiEffect } from "@/components/ui/google-gemini-effect";
 
 export default function Home() {
   return (
     <main>
-      <Portfolio />
+      <GoogleGeminiEffect />
     </main>
-  );
+  )
 }
